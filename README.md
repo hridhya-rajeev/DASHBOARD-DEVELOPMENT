@@ -18,3 +18,4 @@ This dashboard enables quick pattern recognition and supports actionable insight
 Overall, this task underscores the importance of interactive dashboards in data analysis workflows. Tableau Public’s rich visualization features, combined with easy-to-use filtering, enable users to engage deeply with data and derive meaningful conclusions efficiently. The skills developed through this project — including data import, visualization creation, dashboard assembly, and interactivity implementation — are broadly applicable to various domains, from business intelligence to scientific research.
 
 # output
+![Image](https://github.com/user-attachments/assets/f3162070-47b2-4248-b817-f87fe9fef8af)
